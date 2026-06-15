@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Cute female developer coding" width="200" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/coder.gif" alt="Developer coding animation" width="200" />
   
   <h1>Hi there, I'm Hazal 👋</h1>
   <h3>Fullstack Developer & Tech Enthusiast based in Istanbul</h3>
@@ -49,8 +49,12 @@
 ### LeetCode & Coding Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/whitmanvari?base=0&plugin_leetcode=yes&theme=tokyonight" alt="Hazal's LeetCode Stats" />
+  <a href="https://leetcode.com/whitmanvari/">
+    <img src="https://leetcard.jacoblin.cool/whitmanvari?theme=dark&font=Syne" alt="Hazal's LeetCode Stats" />
+  </a>
 </div>
+
+<br>
 
 ### What I'm working on
 - Building comprehensive **Fullstack** applications integrating RESTful APIs with React.
