@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/coder.gif" alt="Developer coding animation" width="200" />
-  
   <h1>Hi there, I'm Hazal 👋</h1>
+  <img src="https://raw.githubusercontent.com/whitmanvari/whitmanvari/main/giphy.gif" alt="Cute working female developer" width="500" />
+  
   <h3>Fullstack Developer & Tech Enthusiast based in Istanbul</h3>
   
   <p>
@@ -23,7 +23,7 @@
 
 <br>
 
-### GitHub Stats & Wakatime
+### GitHub Stats & Activity
 
 <div align="center">
   <a href="https://github.com/whitmanvari">
@@ -36,6 +36,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitmanvari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitmanvari&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Hazal's Activity Graph" />
 </div>
 
 <div align="center">
@@ -57,10 +61,10 @@
 <br>
 
 ### What I'm working on
-- Building comprehensive **Fullstack** applications integrating RESTful APIs with React.
-- Designing robust backend architectures using **ASP.NET MVC**, **Entity Framework**, and **Django**.
+- Building comprehensive Fullstack applications integrating RESTful APIs with React.
+- Designing robust backend architectures using ASP.NET MVC, Entity Framework, and Django.
 - Developing interactive and gamified learning platforms.
-- Gearing up to explore the **React Native** ecosystem for mobile development.
+- Gearing up to explore the React Native ecosystem for mobile development.
 
 ### How to reach me
 <a href="https://www.linkedin.com/in/hazal-ilik-838396201">
