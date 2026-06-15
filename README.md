@@ -64,6 +64,8 @@
       <a href="https://leetcode.com/whitmanvari/">
         <img src="https://leetcard.jacoblin.cool/whitmanvari?theme=dark&font=Syne" alt="Hazal's LeetCode Stats" />
       </a>
+      <br>
+      <p><i>"Focusing on Data Structures & Algorithms"</i></p>
     </td>
   </tr>
 </table>
